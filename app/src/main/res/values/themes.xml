@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Quotes" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/LightSteelBlue2</item>
+        <item name="colorPrimaryVariant">@color/LightSteelBlue2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/LightSteelBlue2</item>
+        <item name="colorSecondaryVariant">@color/LightSteelGrey</item>
+        <item name="colorOnSecondary">@color/LightSteelGrey</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="fontFamily">@font/font_f</item>
+        <item name="android:textDirection">rtl</item>
+        <item name="android:direction">right_to_left</item>
+        <item name="android:layoutDirection">rtl</item>
+    </style>
+    
+
+</resources>

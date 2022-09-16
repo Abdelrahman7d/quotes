@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">إقتباسات</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_my_quotes">إقتباساتي</string>
+    <string name="title_favorites">المفضلة</string>
+    <string name="title_share_us">شاركنا</string>
+</resources>

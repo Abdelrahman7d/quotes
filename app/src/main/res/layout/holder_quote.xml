@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginHorizontal="50dp"
+    android:layout_marginTop="20dp"
+    app:cardCornerRadius="30dp">
+
+    <ImageView
+        android:id="@+id/quoteImgV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/quoteTV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/LightSteelGrey"
+        android:textSize="22sp"
+        android:text="اهلا وسهلا"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="20dp" />
+
+
+</androidx.cardview.widget.CardView>

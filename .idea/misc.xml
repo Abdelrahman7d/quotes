@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/quotes/app/src/main/res/drawable/bg_bottom_nav.xml" value="0.1265" />
+        <entry key="..\:/quotes/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1" />
+        <entry key="..\:/quotes/app/src/main/res/drawable/ic_clipboard.xml" value="0.1" />
+        <entry key="..\:/quotes/app/src/main/res/drawable/ic_feather.xml" value="0.1265" />
+        <entry key="..\:/quotes/app/src/main/res/drawable/ic_grid.xml" value="0.1265" />
+        <entry key="..\:/quotes/app/src/main/res/drawable/ic_heart.xml" value="0.1265" />
+        <entry key="..\:/quotes/app/src/main/res/drawable/ic_home.xml" value="0.1265" />
+        <entry key="..\:/quotes/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/quotes/app/src/main/res/drawable/ic_send.xml" value="0.141" />
+        <entry key="..\:/quotes/app/src/main/res/font/al_samt.xml" value="0.18333333333333332" />
+        <entry key="..\:/quotes/app/src/main/res/layout/action_bar.xml" value="0.21" />
+        <entry key="..\:/quotes/app/src/main/res/layout/actionbar.xml" value="0.16927083333333334" />
+        <entry key="..\:/quotes/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/quotes/app/src/main/res/layout/fragment_dashboard.xml" value="0.16927083333333334" />
+        <entry key="..\:/quotes/app/src/main/res/layout/fragment_favorites.xml" value="0.16927083333333334" />
+        <entry key="..\:/quotes/app/src/main/res/layout/fragment_home.xml" value="0.16927083333333334" />
+        <entry key="..\:/quotes/app/src/main/res/layout/fragment_share_quote.xml" value="0.16927083333333334" />
+        <entry key="..\:/quotes/app/src/main/res/layout/holder_quote.xml" value="0.33" />
+        <entry key="..\:/quotes/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
